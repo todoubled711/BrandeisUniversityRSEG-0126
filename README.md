@@ -6,3 +6,4 @@ this file, you have successfully completed a git pull
 operation.
 
 --Commit file to personal GitHub
+How and when to promote code example
